@@ -1,0 +1,4 @@
+[0617/140501.755:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[0617/140501.774:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0617/140752.936:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0617/140753.692:ERROR:file_io_win.cc(161)] CreateFile C:\Users\zazan\AppData\Local\Temp\karma-82286344\Crashpad\settings.dat: O sistema não pode encontrar o arquivo especificado. (0x2)
